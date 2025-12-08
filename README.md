@@ -1,5 +1,5 @@
 # 💫 Welcome
-Hi, junior full stack developer here. I hack things.
+Hi, my name is Anton, I hack things. This is my Arbetsförmedlingen work account. 
 
 
 ## 🌐 Socials:
