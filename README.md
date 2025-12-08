@@ -3,7 +3,11 @@ Hi, my name is Anton, I hack things. This is my Arbetsförmedlingen work account
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anton-lindstr%C3%B6m-94b38622a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anton.jumkil@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anton-lindstr%C3%B6m-94b38622a/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anton.jumkil@gmail.com) 
+
+[![Private github](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anton.jumkil@gmail.com) 
+
 [![Private github]([https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://img.shields.io/badge/github-repo?logo=github))]([mailto:anton.jumkil@gmail.com](https://github.com/Antlin23))
 
 # 💻 Tech Stack:
